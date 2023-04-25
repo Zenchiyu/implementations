@@ -23,3 +23,5 @@ importance sampling and sampling from these samples with probabilities specified
 by the normalized importance weights.
 
 ![sampling importance resampling](./images/sampling_importance_resampling.png)
+
+* Ising model: not working as expected
