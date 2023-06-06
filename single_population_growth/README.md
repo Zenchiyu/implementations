@@ -4,7 +4,7 @@
 
 Continuous time dynamic system described by:
 
-$$\dot{P}(t) = r \cdot P(t) = r_1 \cdot B(t) - r_2 \cdot D(t)$$
+$$\dot{P}(t) = r \cdot P(t) = B(t) - D(t)$$
 
 where $r = r_1 - r_2$
 
